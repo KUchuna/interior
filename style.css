@@ -385,4 +385,7 @@ body {
     .text {
         width: fit-content;
     }
+    .author {
+        margin-left: 50px;
+    }
 }
